@@ -2,7 +2,9 @@ Welcome to MyKitchen
 
 Chiken Biriyani
 Paneer Kofta
-
+Dosa
+Pizza
+Idli
 
 
 Thanks
